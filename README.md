@@ -11,4 +11,3 @@ now in order to accomplish parsing we need :-
 3. Parsing table (which is given  in our case)
 
 the algorithm is simple for tracing and code is commented to explain some points
-
